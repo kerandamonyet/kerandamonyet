@@ -7,8 +7,8 @@
 Seorang **mahasiswa** semester 5 yang sedang mengikuti **Program SIB X Dicoding Batch #5**
 
 Saya **Lulus** pada kelas:
-  - Belajar Dasar Git dengan GitHub, Link: [Sertifikasi Lulus Kelas Git Dicoding](https://www.dicoding.com/certificates/MRZMQ1NQKPYQ).
-
+  - Belajar Dasar Git dengan GitHub, Link: [Sertifikasi Lulus Kelas Belajar Dasar Git dengan Github](https://www.dicoding.com/certificates/MRZMQ1NQKPYQ).
+  - Memulai Dasar Pemrograman untuk Menjadi Pengembang Software, Link: [Sertifikasi Lulus Kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/dicodingassets/coursecertificate/2c9d7520eeb1962f3fdf8ee4fb8c6ccd2e1739e3/view).
 
 Saya telah menyelesaikan **Program Junior Web Developer VSGA 2023** yang diselenggarakan oleh **KOMINFO**
 
