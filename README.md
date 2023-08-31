@@ -12,6 +12,7 @@ Saya **Lulus** pada kelas:
   - Pengenalan ke Logika Pemrograman (Programming Logic 101), Link: [Sertifikasi Lulus Kelas Pengenalan ke Logika Pemrograman (Programming Logic 101)
 ](https://www.dicoding.com/certificates/4EXGNLWKGZRL).
   - Dasar Pemrograman Web, Link: [Sertifikasi Lulus Kelas Pemrograman Dasar Web](https://www.dicoding.com/certificates/1RXY65RJKZVM).
+  - Belajar Dasar Pemrograman JavaScript, Link: [Sertifikasi Lulus Kelas Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/NVP78Y7JGXR0).
 
 Saya telah menyelesaikan **Program Junior Web Developer VSGA 2023** yang diselenggarakan oleh **KOMINFO**
 
