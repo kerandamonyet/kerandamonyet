@@ -13,6 +13,7 @@ Saya **Lulus** pada kelas:
 ](https://www.dicoding.com/certificates/4EXGNLWKGZRL).
   - Dasar Pemrograman Web, Link: [Sertifikasi Lulus Kelas Pemrograman Dasar Web](https://www.dicoding.com/certificates/1RXY65RJKZVM).
   - Belajar Dasar Pemrograman JavaScript, Link: [Sertifikasi Lulus Kelas Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/NVP78Y7JGXR0).
+  - Belajar Membuat Front-End Web untuk Pemula, Link: [Sertifikasi Lulus Kelas Belajar Membuat Front-End Web untuk Pemula](https://www.dicoding.com/certificates/NVP78G23VXR0).
 
 Saya telah menyelesaikan **Program Junior Web Developer VSGA 2023** yang diselenggarakan oleh **KOMINFO**
 
