@@ -4,7 +4,7 @@
 
 **Perkenalkan saya Muhammad Zaedane**
 
-Seorang **mahasiswa** semester 5 yang sedang mengikuti **Program SIB X Dicoding Batch #5**
+Seorang **mahasiswa** semester 7 yang lulus mengikuti **Program SIB X Dicoding Batch #5**
 
 Saya **Lulus** pada kelas:
   - Belajar Dasar Git dengan GitHub, Link: [Sertifikasi Lulus Kelas Belajar Dasar Git dengan Github](https://www.dicoding.com/certificates/MRZMQ1NQKPYQ).
