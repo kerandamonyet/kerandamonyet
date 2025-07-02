@@ -1,8 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Zaedane</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00FFD9&center=true&vCenter=true&multiline=true&width=600&lines=Fresh+Graduate+from+Universitas+Kuningan;Frontend+%7C+Backend+Developer+Enthusiast;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=00FF99&center=true&vCenter=true&width=800&lines=Hi+I'm+Muhammad+Zaedane!;Fresh+Graduate+from+Universitas+Kuningan.;Frontend+%7C+Backend+Web+Developer.;Always+Learning+New+Technology.;Welcome+to+my+GitHub+Profile!+👨‍💻" alt="Typing SVG" />
 </p>
+
+
+
+
 
 ---
 
