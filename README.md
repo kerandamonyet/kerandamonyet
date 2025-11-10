@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Saya adalah seorang **Fresh Graduate** dari **Universitas Kuningan** dengan passion tinggi di bidang **Web Development** dan **Software Engineering**. Saya aktif mengikuti berbagai pelatihan dan terus belajar teknologi terbaru.
+Saya adalah seorang **Fresh Graduate** dari **Universitas Kuningan** dengan passion tinggi di bidang **Web Development** dan **Software Quality Assurance**. Saya aktif mengikuti berbagai pelatihan dan terus belajar teknologi terbaru.
 
 ---
 
